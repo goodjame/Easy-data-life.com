@@ -1,0 +1,89 @@
+body{
+    background: black;
+}
+img{
+    width: 1000px;
+    height: 400px;
+}
+
+h4{
+    color: white;
+  background-repeat: none;
+}
+
+div{
+    background: black;
+    height: 300px;
+    width: 700px;
+    border:1px solid;
+    border-color:blue;
+    border-style: double;
+ font-size:50px;
+   
+}
+
+h2{
+    color: white;
+  
+}
+
+li{
+    color: red;
+}
+
+table{
+    background: blue;
+    height: 400px;
+    width: 600px;
+    font-size:30px;
+}
+
+td{
+    color:white;
+}
+
+th{
+    color:blue;
+}
+
+tr{
+ background-color: black;
+}
+
+button{
+    width: 500px;
+    height: 200px; 
+    font-size:30px;
+  border-color:blue;
+  background-color:;
+}
+
+textarea{
+    width: 600px;
+    height: 150px;
+  font-size:30px;
+  border:3px solid;
+  border-color:blue;
+}
+
+select{
+    width: 400px;
+  height: 200px;
+  font-size:30px;
+  border:3px solid;
+  border-color:blue;
+}
+
+h1{
+  color:white;
+}
+
+.yy{
+  font-size:50px;
+}
+
+tt{
+  color:white;
+}
+
+
